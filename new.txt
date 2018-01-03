@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-hello world!!!...,,,
-=======
-hello world!!!
->>>>>>> parent of 3537d6b... Add "."
+hello world...!
